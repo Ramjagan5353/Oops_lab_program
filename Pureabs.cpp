@@ -21,8 +21,8 @@ public:
 
 int main()
 {
-    FrontBench sai;
+    FrontBench ram;
     ram.type();
-    BackBench bhaskar;
+    BackBench jagan;
     jagan.type();
 }
